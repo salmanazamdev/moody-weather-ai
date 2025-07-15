@@ -54,7 +54,7 @@ moody-weather-ai/
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/moody-weather-ai
+git clone https://github.com/salmanazamdev/moody-weather-ai
 
 # Go to project folder
 cd moody-weather-ai
