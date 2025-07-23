@@ -16,13 +16,6 @@ An expressive and modern mobile weather app that goes beyond just temperature �
 
 ---
 
-## ✨ Screens
-
-| HomeScreen | ForecastScreen |
-|------------|----------------|
-| ![Home](https://via.placeholder.com/200x400.png?text=Weather+Mood+Screen) | ![Forecast](https://via.placeholder.com/200x400.png?text=15+Day+Forecast) |
-
----
 
 ## 📂 Folder Structure
 
